@@ -1,0 +1,7 @@
+$ git clone https://github.com/Javier10d/examenApellido.git
+$ touch comandos.txt
+$ git add .
+$ git commit -m "Comandos creado"
+$ git push
+$ git checkout -b branch1
+$ mkdir -p prog si bbdd
